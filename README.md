@@ -16,7 +16,7 @@ I'm a **Professional Software Developer 💻 😃** with over 4+ years of indust
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Senior Software Developer at **[Tilism Technology 🅾️]
+- 🔭 I’m currently working as a Senior Software Developer at **[Tilism Technologies Pvt Ltd]**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a MERN stack developer, and I enjoy working on:
   - 🌐 Full-Stack Web Development with MongoDB, MySql, Express, React, Next, and Node.js
   - ⚙️ Building RESTful APIs and Single Page Applications (SPAs)
@@ -47,8 +47,8 @@ I'm a **Professional Software Developer 💻 😃** with over 4+ years of indust
 <p align="center">
 
 <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=Shehryarlakhany&show_icons=true&line_height=21&theme=react" alt="Shehryar Lakhany's Github Stats" />
-<img width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehryarlakhany&show_icons=true&locale=en&layout=compact&theme=react" alt="Shehryar Lakhany" />
+<img width="340" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehryarlakhany&show_icons=true&locale=en&layout=compact&theme=react" alt="Shehryar Lakhany" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehryarlakhany&show_icons=true&locale=en&theme=react" alt="shehryarlakhany" />
+<img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehryarlakhany&show_icons=true&locale=en&theme=react" alt="shehryarlakhany" />
 
 </p>
