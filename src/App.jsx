@@ -13,7 +13,7 @@ function App() {
                 <div className="home-banner-wrapper row align-items-center">
                   <div className="col-12 col-lg-6 col-xl-7 home-banner-text-col position-relative">
                     <div className="sub-heading d-flex align-items-center">
-                      <img src="./Home_files/orangeDot.png" alt="orange-dot" />
+                      <img src="./assets/image/orangeDot.png" alt="orange-dot" />
                       <p>I AM FULL STACK DEVELOPER</p>
                     </div>
                     <div className="animate-heading">
@@ -40,23 +40,23 @@ function App() {
                     </a>
                     <div className="banner-particle-one-container">
                       <img className="position-absolute banner-particle-one d-none d-lg-inline"
-                        src="./Home_files/particleOne.png" alt="banner particle one" />
+                        src="./assets/image/particleOne.png" alt="banner particle one" />
                     </div>
                     <div className="banner-particle-two-container">
                       <img className="position-absolute banner-particle-two delay-one"
-                        src="./Home_files/particleTwo.png" alt="banner particle two" />
+                        src="./assets/image/particleTwo.png" alt="banner particle two" />
                     </div>
                   </div>
                   <div className="col-12 col-lg-6 col-xl-5 text-center position-relative home-banner-img-col">
                     <div className="banner-particle-one-container">
                       <img className="position-absolute banner-particle-one d-lg-none"
-                        src="./Home_files/particleOne.png" alt="banner particle one" />
+                        src="./assets/image/particleOne.png" alt="banner particle one" />
                     </div>
 
                     <img className="position-absolute home-banner-shape bg-move-3d"
-                      src="./Home_files/homeNannerShape.png" alt="banner-shape" />
+                      src="./assets/image/homeNannerShape.png" alt="banner-shape" />
                     <img className="img-fluid position-relative z-index-10 home-banner-img"
-                      src="./Home_files/bannerImg.png" alt="banner-image" />
+                      src="./assets/image/bannerImg.png" alt="banner-image" />
                   </div>
                 </div>
               </div>
@@ -71,14 +71,14 @@ function App() {
                 <div className="row align-items-center">
                   <div className="about-image-col col-12 col-lg-6 text-center">
                     <div className="img-overlay mx-auto mx-lg-0">
-                      <img className="img-fluid" src="./Home_files/about.png" alt="about image" />
+                      <img className="img-fluid" src="./assets/image/about.png" alt="about image" />
                     </div>
                   </div>
                   <div className="about-text-col col-12 col-lg-6">
                     <div className="about-text-top">
                       <div className="section-heading">
                         <div className="sub-heading d-flex align-items-center">
-                          <img src="./Home_files/orangeDot.png" alt="orange-dot" />
+                          <img src="./assets/image/orangeDot.png" alt="orange-dot" />
                           <p>About Me</p>
                         </div>
                         <h2 className="black-color line-height-3 h2">
@@ -96,7 +96,7 @@ function App() {
                     <div className="row row-mobile-margin gy-3 gy-sm-0 mt-50">
                       <div className="col-12 col-sm-6 col-lg-6 d-flex align-items-center">
                         <div className="mr-10">
-                          <img src="./Home_files/aboutIconOne.png" alt="about icon one" />
+                          <img src="./assets/image/aboutIconOne.png" alt="about icon one" />
                         </div>
                         <div className="about-complete-project">
                           <h4 className="fw-700 orange-color h4"><span className="counter">350</span>+</h4>
@@ -105,7 +105,7 @@ function App() {
                       </div>
                       <div className="col-12 col-sm-6 col-lg-6 d-flex align-items-center">
                         <div className="mr-10">
-                          <img src="./Home_files/aboutIconTwo.png" alt="about icon two" />
+                          <img src="./assets/image/aboutIconTwo.png" alt="about icon two" />
                         </div>
                         <div className="about-years-experience">
                           <h4 className="fw-700 orange-color h4"><span className="counter">16</span>+</h4>
@@ -198,7 +198,7 @@ function App() {
               <div className="col-12">
                 <div className="section-heading-middle">
                   <div className="sub-heading d-flex align-items-center mx-auto">
-                    <img src="./Home_files/orangeDot.png" alt="orange-dot" />
+                    <img src="./assets/image/orangeDot.png" alt="orange-dot" />
                     <p>My Service</p>
                   </div>
                   <h2 className="black-color line-height-3 h2 text-uppercase text-center">
@@ -207,21 +207,21 @@ function App() {
                 </div>
                 <div className="service-grid-container mt-50 row-mobile-margin">
                   <div className="service-grid-item text-center">
-                    <img className="service-item-img" src="./Home_files/serviceOne.png" alt="service-img-one" />
+                    <img className="service-item-img" src="./assets/image/serviceOne.png" alt="service-img-one" />
                     <h3 className="h3 fw-500 service-item-heading black-color">UI/UX Design</h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
                       Hen our power of choice is untrammelled and when nothing prevents our being able
                     </p>
                   </div>
                   <div className="service-grid-item text-center">
-                    <img className="service-item-img" src="./Home_files/serviceTwo.png" alt="service-img-two" />
+                    <img className="service-item-img" src="./assets/image/serviceTwo.png" alt="service-img-two" />
                     <h3 className="h3 fw-500 service-item-heading black-color">Mobile App</h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
                       Hen our power of choice is untrammelled and when nothing prevents our being able
                     </p>
                   </div>
                   <div className="service-grid-item text-center">
-                    <img className="service-item-img" src="./Home_files/serviceThree.png"
+                    <img className="service-item-img" src="./assets/image/serviceThree.png"
                       alt="service-img-three" />
                     <h3 className="h3 fw-500 service-item-heading black-color">Graphic Design</h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
@@ -229,28 +229,28 @@ function App() {
                     </p>
                   </div>
                   <div className="service-grid-item text-center">
-                    <img className="service-item-img" src="./Home_files/serviceFour.png" alt="service-img-four" />
+                    <img className="service-item-img" src="./assets/image/serviceFour.png" alt="service-img-four" />
                     <h3 className="h3 fw-500 service-item-heading black-color">Web Developer</h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
                       Hen our power of choice is untrammelled and when nothing prevents our being able
                     </p>
                   </div>
                   <div className="service-grid-item text-center">
-                    <img className="service-item-img" src="./Home_files/serviceFive.png" alt="service-img-five" />
+                    <img className="service-item-img" src="./assets/image/serviceFive.png" alt="service-img-five" />
                     <h3 className="h3 fw-500 service-item-heading black-color">SEO Optimisation</h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
                       Hen our power of choice is untrammelled and when nothing prevents our being able
                     </p>
                   </div>
                   <div className="service-grid-item text-center">
-                    <img className="service-item-img" src="./Home_files/serviceSix.png" alt="service-img-six" />
+                    <img className="service-item-img" src="./assets/image/serviceSix.png" alt="service-img-six" />
                     <h3 className="h3 fw-500 service-item-heading black-color">WordPress Developer</h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
                       Hen our power of choice is untrammelled and when nothing prevents our being able
                     </p>
                   </div>
                   <div className="service-grid-item text-center">
-                    <img className="service-item-img" src="./Home_files/serviceSeven.png"
+                    <img className="service-item-img" src="./assets/image/serviceSeven.png"
                       alt="service-img-seven" />
                     <h3 className="h3 fw-500 service-item-heading black-color">App Development</h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
@@ -258,7 +258,7 @@ function App() {
                     </p>
                   </div>
                   <div className="service-grid-item text-center">
-                    <img className="service-item-img" src="./Home_files/serviceEight.png"
+                    <img className="service-item-img" src="./assets/image/serviceEight.png"
                       alt="service-img-eight" />
                     <h3 className="h3 fw-500 service-item-heading black-color">Business Strategy</h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
@@ -278,7 +278,7 @@ function App() {
                 <div className="resume-wrapper">
                   <div className="section-heading-middle">
                     <div className="sub-heading d-flex align-items-center mx-auto">
-                      <img src="./Home_files/orangeDot.png" alt="orange-dot" />
+                      <img src="./assets/image/orangeDot.png" alt="orange-dot" />
                       <p>My Resume</p>
                     </div>
                     <h2 className="black-color line-height-3 h2 text-uppercase text-center">
@@ -494,7 +494,7 @@ function App() {
                 <div className="portfolio-wrapper">
                   <div className="section-heading-middle">
                     <div className="sub-heading d-flex align-items-center mx-auto">
-                      <img src="./Home_files/orangeDot.png" alt="orange-dot" />
+                      <img src="./assets/image/orangeDot.png" alt="orange-dot" />
                       <p>My Portfolio</p>
                     </div>
                     <h2 className="black-color line-height-3 h2 text-uppercase text-center">
@@ -525,12 +525,12 @@ function App() {
                             <div>
                               <button type="button" className="btn-close mb-10 btn"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
-                              <img className="img-fluid" src="./Home_files/portfolioOne.png"
+                              <img className="img-fluid" src="./assets/image/portfolioOne.png"
                                 alt="portfolio img" />
                             </div>
                           </div>
                         </div>
-                        <img className="img-fluid" src="./Home_files/portfolioOne.png" alt="portfolio img" />
+                        <img className="img-fluid" src="./assets/image/portfolioOne.png" alt="portfolio img" />
                         <div className="portfolio-card-overlay w-100 position-absolute top-0">
                         </div>
                         <div
@@ -552,12 +552,12 @@ function App() {
                             <div>
                               <button type="button" className="btn-close mb-10 btn"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
-                              <img className="img-fluid" src="./Home_files/portfolioTwo.png"
+                              <img className="img-fluid" src="./assets/image/portfolioTwo.png"
                                 alt="portfolio img" />
                             </div>
                           </div>
                         </div>
-                        <img className="img-fluid" src="./Home_files/portfolioTwo.png" alt="portfolio img" />
+                        <img className="img-fluid" src="./assets/image/portfolioTwo.png" alt="portfolio img" />
                         <div className="portfolio-card-overlay w-100 position-absolute top-0">
                         </div>
                         <div
@@ -580,12 +580,12 @@ function App() {
                             <div>
                               <button type="button" className="btn-close mb-10 btn"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
-                              <img className="img-fluid" src="./Home_files/portfolioThree.png"
+                              <img className="img-fluid" src="./assets/image/portfolioThree.png"
                                 alt="portfolio img" />
                             </div>
                           </div>
                         </div>
-                        <img className="img-fluid" src="./Home_files/portfolioThree.png"
+                        <img className="img-fluid" src="./assets/image/portfolioThree.png"
                           alt="portfolio img" />
                         <div className="portfolio-card-overlay w-100 position-absolute top-0">
                         </div>
@@ -609,12 +609,12 @@ function App() {
                             <div>
                               <button type="button" className="btn-close mb-10 btn"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
-                              <img className="img-fluid" src="./Home_files/portfolioFour.png"
+                              <img className="img-fluid" src="./assets/image/portfolioFour.png"
                                 alt="portfolio img" />
                             </div>
                           </div>
                         </div>
-                        <img className="img-fluid" src="./Home_files/portfolioFour.png" alt="portfolio img" />
+                        <img className="img-fluid" src="./assets/image/portfolioFour.png" alt="portfolio img" />
                         <div className="portfolio-card-overlay w-100 position-absolute top-0">
                         </div>
                         <div
@@ -636,12 +636,12 @@ function App() {
                             <div>
                               <button type="button" className="btn-close mb-10 btn"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
-                              <img className="img-fluid" src="./Home_files/portfolioFive.png"
+                              <img className="img-fluid" src="./assets/image/portfolioFive.png"
                                 alt="portfolio img" />
                             </div>
                           </div>
                         </div>
-                        <img className="img-fluid" src="./Home_files/portfolioFive.png" alt="portfolio img" />
+                        <img className="img-fluid" src="./assets/image/portfolioFive.png" alt="portfolio img" />
                         <div className="portfolio-card-overlay w-100 position-absolute top-0">
                         </div>
                         <div
@@ -663,12 +663,12 @@ function App() {
                             <div>
                               <button type="button" className="btn-close mb-10 btn"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
-                              <img className="img-fluid" src="./Home_files/portfolioSix.png"
+                              <img className="img-fluid" src="./assets/image/portfolioSix.png"
                                 alt="portfolio img" />
                             </div>
                           </div>
                         </div>
-                        <img className="img-fluid" src="./Home_files/portfolioSix.png" alt="portfolio img" />
+                        <img className="img-fluid" src="./assets/image/portfolioSix.png" alt="portfolio img" />
                         <div className="portfolio-card-overlay w-100 position-absolute top-0">
                         </div>
                         <div
@@ -691,12 +691,12 @@ function App() {
                             <div>
                               <button type="button" className="btn-close mb-10 btn"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
-                              <img className="img-fluid" src="./Home_files/portfolioSeven.png"
+                              <img className="img-fluid" src="./assets/image/portfolioSeven.png"
                                 alt="portfolio img" />
                             </div>
                           </div>
                         </div>
-                        <img className="img-fluid" src="./Home_files/portfolioSeven.png"
+                        <img className="img-fluid" src="./assets/image/portfolioSeven.png"
                           alt="portfolio img" />
                         <div className="portfolio-card-overlay w-100 position-absolute top-0">
                         </div>
@@ -719,12 +719,12 @@ function App() {
                             <div>
                               <button type="button" className="btn-close mb-10 btn"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
-                              <img className="img-fluid" src="./Home_files/portfolioEight.png"
+                              <img className="img-fluid" src="./assets/image/portfolioEight.png"
                                 alt="portfolio img" />
                             </div>
                           </div>
                         </div>
-                        <img className="img-fluid" src="./Home_files/portfolioEight.png"
+                        <img className="img-fluid" src="./assets/image/portfolioEight.png"
                           alt="portfolio img" />
                         <div className="portfolio-card-overlay w-100 position-absolute top-0">
                         </div>
@@ -755,7 +755,7 @@ function App() {
                 <div className="home-contact-wrapper">
                   <div className="section-heading-middle">
                     <div className="sub-heading d-flex align-items-center mx-auto">
-                      <img src="./Home_files/orangeDot.png" alt="orange-dot" />
+                      <img src="./assets/image/orangeDot.png" alt="orange-dot" />
                       <p>My Contact</p>
                     </div>
                     <h2 className="black-color line-height-3 h2 text-uppercase text-center">
