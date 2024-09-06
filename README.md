@@ -16,7 +16,7 @@ I'm a **Professional Software Developer 💻 😃** with over 4+ years of indust
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Senior Software Developer at **[Tilism Technologies Pvt Ltd]**
+- 🔭 I’m currently working as a Senior Software Developer at **Tilism Technologies Pvt Ltd**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a MERN stack developer, and I enjoy working on:
   - 🌐 Full-Stack Web Development with MongoDB, MySql, Express, React, Next, and Node.js
   - ⚙️ Building RESTful APIs and Single Page Applications (SPAs)
@@ -33,22 +33,31 @@ I'm a **Professional Software Developer 💻 😃** with over 4+ years of indust
 
 
 ### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
 
 
 
 ### 🚀 Quick Stats
-<p align="center">
-
+<p>
 <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=Shehryarlakhany&show_icons=true&line_height=21&theme=react" alt="Shehryar Lakhany's Github Stats" />
-<img width="340" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehryarlakhany&show_icons=true&locale=en&layout=compact&theme=react" alt="Shehryar Lakhany" />
-
-<img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehryarlakhany&show_icons=true&locale=en&theme=react" alt="shehryarlakhany" />
-
+<img width="340" height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehryarlakhany&show_icons=true&locale=en&layout=compact&theme=react" alt="Shehryar Lakhany" />
 </p>
+
+<p>
+<img width="450" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shehryarlakhany&show_icons=true&locale=en&theme=react" alt="shehryarlakhany" />
+</p>
+
